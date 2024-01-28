@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20cancer/cancer-classification/mlruns/0/cde48334a56f4cf893e16274187c9219/artifacts
+end_time: 1706328406450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cde48334a56f4cf893e16274187c9219
+run_name: smiling-lamb-759
+run_uuid: cde48334a56f4cf893e16274187c9219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706328404097
+status: 3
+tags: []
+user_id: mornd
